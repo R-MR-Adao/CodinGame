@@ -5,11 +5,16 @@
 </p>
 
 Here is a simple repository with a few of my solutions to CodingGame's puzzles, competitions, and optimization challenges.
-Keep in mind that playing CodinGame is something I do for fun when I have a few minutes to spare, so it should be no surprise that most of the solved puzzles in this repository belong to the "easy" cathegory :).
+Keep in mind that playing CodinGame is something I do for fun when I have a few minutes to spare, so it should be no surprise that most of the solved puzzles in this repository belong to the "easy" cathegory 😊.
+
 However, a quick search in the community discussions and comments shows that some of the puzzles seem to be cathegorized more based on the code length of a solution, rather than the algorithmic complexity.
+
+Below you can find the links to the CondinGame challenges!
 
 ## Table of Contents
 [Puzzles](#puzzles)
+[Competitions](#competitions)
+[Optimization](#optimization)
 
 ## Puzzles
 
@@ -42,8 +47,8 @@ Solved puzzles:
   - [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
   - [THE OPTIMAL URINAL PROBLEM](https://www.codingame.com/training/medium/the-optimal-urinal-problem/solution)
 
-- Cmmpetitions  
+## Cmmpetitions  
   - [LEGENDS OF CODE & MAGIC](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic)
   
-- Optimization
+## Optimization
   - [MARS LANDER](https://www.codingame.com/multiplayer/optimization/mars-lander)
