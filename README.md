@@ -12,9 +12,9 @@ However, a quick search in the community discussions and comments shows that som
 Below you can find the links to the CondinGame challenges!
 
 ## Table of Contents
-[Puzzles](#puzzles)
-[Competitions](#competitions)
-[Optimization](#optimization)
+- [Puzzles](#puzzles)
+- [Competitions](#competitions)
+- [Optimization](#optimization)
 
 ## Puzzles
 
