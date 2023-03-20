@@ -10,9 +10,9 @@ for y, line in enumerate(w_map):
     while len(line) > 0:                                        # line becomes shorter as we go
         n = line[line == '0']                                   # find nodes in line
         if len(n) > 0:                                          # nodes were found
-            x = np.argmin(line != '0') + x_off                  # locate first node in line
+            x = np.argmax(line == '0') + x_off                  # locate first node in line
             if len(n) > 1:                                      # more nodes in line
-                x_r = np.argmin(line[x-x_off+1:] != '0') + x+1  # find them
+                x_r = np.argmax(line[x-x_off+1:] == '0') + x+1  # find them
                 y_r = y                                         
             else:                                               # no more nodes in line
                 x_r = y_r = -1
@@ -20,7 +20,7 @@ for y, line in enumerate(w_map):
                 line_v = w_map[y+1:,x]                          # vertical line
                 n_b = line_v[line_v == '0']                     # find bottom nodes
                 if len(n_b) > 0:                                # found some nodes
-                    y_b = np.argmin(line_v != '0') + y+1        # find first one
+                    y_b = np.argmax(line_v == '0') + y+1        # find first one
                     x_b = x
                 else:                                           # no bottom node
                     x_b = y_b = -1
