@@ -5,9 +5,9 @@
 </p>
 
 Here is a simple repository with a few of my solutions to CodingGame's puzzles, competitions, and optimization challenges.
-Keep in mind that playing CodinGame is something I do for fun when I have a few minutes to spare, so it should be no surprise that most of the solved puzzles in this repository belong to the "easy" cathegory 😊.
+Keep in mind that playing CodinGame is something I do for fun when I have a few minutes to spare, so it should be no surprise that most of the solved puzzles in this repository belong to the "easy" category 😊.
 
-However, a quick search in the community discussions and comments shows that some of the puzzles seem to be cathegorized more based on the code length of a solution, rather than the algorithmic complexity.
+However, a quick search in the community discussions and comments shows that some of the puzzles seem to be categorized more based on the code length of a solution, rather than the algorithmic complexity.
 
 My CodinGame profile: [Ricrocker](https://www.codingame.com/profile/c548d80bb2050b42e0aaac332abb2efc8400302)
 
@@ -51,6 +51,7 @@ Solved puzzles:
   - [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
   - [THE OPTIMAL URINAL PROBLEM](https://www.codingame.com/training/medium/the-optimal-urinal-problem/solution)
   - [THERE IS NO SPOON - EPISODE 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
+  - [DON'T PANIC - EPISODE 1](https://www.codingame.com/training/medium/don't-panic-episode-1)
 
 ## Cmmpetitions  
   - [LEGENDS OF CODE & MAGIC](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic)
