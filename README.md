@@ -47,11 +47,12 @@ Solved puzzles:
   
 - Medium puzzles 
   - [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)
+  - [DON'T PANIC - EPISODE 1](https://www.codingame.com/training/medium/don't-panic-episode-1)
   - [MAYAN CALCULATION](https://www.codingame.com/training/medium/mayan-calculation)
   - [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
   - [THE OPTIMAL URINAL PROBLEM](https://www.codingame.com/training/medium/the-optimal-urinal-problem/solution)
   - [THERE IS NO SPOON - EPISODE 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
-  - [DON'T PANIC - EPISODE 1](https://www.codingame.com/training/medium/don't-panic-episode-1)
+  - [WAR](https://www.codingame.com/training/medium/winamax-battle)
 
 ## Cmmpetitions  
   - [LEGENDS OF CODE & MAGIC](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic)
