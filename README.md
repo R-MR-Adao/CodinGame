@@ -50,6 +50,7 @@ Solved puzzles:
   - [DON'T PANIC - EPISODE 1](https://www.codingame.com/training/medium/don't-panic-episode-1)
   - [MAYAN CALCULATION](https://www.codingame.com/training/medium/mayan-calculation)
   - [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
+  - [STOCK EXCHANGE LOSSES](https://www.codingame.com/training/medium/stock-exchange-losses)
   - [THE OPTIMAL URINAL PROBLEM](https://www.codingame.com/training/medium/the-optimal-urinal-problem/solution)
   - [THERE IS NO SPOON - EPISODE 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
   - [WAR](https://www.codingame.com/training/medium/winamax-battle)
