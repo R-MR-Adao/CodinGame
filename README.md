@@ -27,6 +27,7 @@ Solved puzzles:
 - Easy puzzles
   - [1D SPREADSHEET](https://www.codingame.com/training/easy/1d-spreadsheet)
   - [ASCII Art](https://www.codingame.com/training/easy/ascii-art)
+  - [ASCII ART THE DRUNKEN BISHOP ALGORITHM](https://www.codingame.com/training/easy/ascii-art-the-drunken-bishop-algorithm)
   - [ASTEROIDS](https://www.codingame.com/training/easy/asteroids)
   - [CROP-CIRCLES](https://www.codingame.com/training/easy/crop-circles)
   - [DEFIBRILLATORS](https://www.codingame.com/training/easy/defibrillators)
